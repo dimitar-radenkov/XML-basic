@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<students xmlns="urn:students"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="students.xsd">
+           <!--xsi:schemaLocation="urn:students students.xsd"-->
+  <student>
+    <name>Anton</name>
+    <sex>m</sex>
+    <birthDate>1/2000</birthDate>
+    <phone> 0888888888</phone>
+    <email>rrrr@abv.bg</email>
+    <course>css</course>
+    <specialty>Everything</specialty>
+    <facultyNumber>900233</facultyNumber>
+    <exams>
+      <name>Deleting</name>
+      <tutor>Ivanov</tutor>
+      <score>2</score>
+    </exams>
+    <exams>
+      <name>Shining</name>
+      <tutor>Petko</tutor>
+      <score>2</score>
+    </exams>
+  </student>
+  <student>
+    <name>Anton</name>
+    <sex>m</sex>
+    <birthDate>1/2000</birthDate>
+    <phone> 0888888888</phone>
+    <email>rrrr@abv.bg</email>
+    <course>css</course>
+    <specialty>Everything</specialty>
+    <facultyNumber>900233</facultyNumber>
+    <exams>
+      <name>Shining</name>
+      <tutor>Petko</tutor>
+      <score>2</score>
+    </exams>
+  </student>
+</students>
